@@ -1,4 +1,4 @@
----- 고객별 마지막 구매일
+-- 고객별 마지막 구매일
 WITH last_purchase AS (
     SELECT
         customer_id,
