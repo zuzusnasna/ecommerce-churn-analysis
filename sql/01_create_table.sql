@@ -1,4 +1,3 @@
--- create online retail tables
 -- raw transaction table
 CREATE TABLE raw_transactions (
     invoice_no     VARCHAR(20),
